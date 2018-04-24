@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\users\lou\desktop\boids lou kai\boids lou kai\application\Application.h(9): warning C4005: '_WIN32_WINNT': macro redefinition
+  d:\users\lou\desktop\boids lou kai\boids lou kai\application\Application.h(9): note: command-line arguments:  see previous definition of '_WIN32_WINNT'
+  D:\Program Files (x86)\Windows Kits\8.1\Include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+main.cpp(31): warning C4189: 'myGame': local variable is initialized but not referenced
+LINK : fatal error LNK1181: cannot open input file 'game.lib'

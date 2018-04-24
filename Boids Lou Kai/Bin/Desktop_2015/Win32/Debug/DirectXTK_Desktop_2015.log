@@ -1,0 +1,4 @@
+﻿D:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Bin\Desktop_2015\Win32\Debug\) contains files shared from another project (DirectXTKAudio_Desktop_2015_Win8.vcxproj, Game.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Skipping... (no relevant changes detected)
+  pch.cpp
+  DirectXTK_Desktop_2015.vcxproj -> D:\Users\Lou\Desktop\Boids Lou Kai\Boids Lou Kai\Bin\Desktop_2015\Win32\Debug\DirectXTK.lib

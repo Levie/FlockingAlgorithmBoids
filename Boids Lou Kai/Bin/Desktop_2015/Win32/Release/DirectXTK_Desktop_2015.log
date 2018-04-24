@@ -1,0 +1,35 @@
+﻿  pch.cpp
+  AlphaTestEffect.cpp
+  BasicEffect.cpp
+  CommonStates.cpp
+  DDSTextureLoader.cpp
+  DGSLEffect.cpp
+  DGSLEffectFactory.cpp
+  DualTextureEffect.cpp
+  BinaryReader.cpp
+  EffectCommon.cpp
+  EffectFactory.cpp
+  EnvironmentMapEffect.cpp
+  GamePad.cpp
+  GeometricPrimitive.cpp
+  Geometry.cpp
+  GraphicsMemory.cpp
+  Keyboard.cpp
+  Model.cpp
+  ModelLoadCMO.cpp
+  ModelLoadSDKMESH.cpp
+  ModelLoadVBO.cpp
+  Generating Code...
+  Compiling...
+  Mouse.cpp
+  NormalMapEffect.cpp
+  ScreenGrab.cpp
+  SimpleMath.cpp
+  SkinnedEffect.cpp
+  SpriteBatch.cpp
+  PrimitiveBatch.cpp
+  SpriteFont.cpp
+  VertexTypes.cpp
+  WICTextureLoader.cpp
+  Generating Code...
+  DirectXTK_Desktop_2015.vcxproj -> D:\Users\Lou\Desktop\Boids Lou Kai\Boids Lou Kai\Bin\Desktop_2015\Win32\Release\DirectXTK.lib

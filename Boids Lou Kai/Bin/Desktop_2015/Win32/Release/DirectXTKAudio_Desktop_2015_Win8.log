@@ -1,0 +1,10 @@
+﻿  AudioEngine.cpp
+  DynamicSoundEffectInstance.cpp
+  SoundCommon.cpp
+  SoundEffect.cpp
+  SoundEffectInstance.cpp
+  WaveBank.cpp
+  WaveBankReader.cpp
+  WAVFileReader.cpp
+  Generating Code...
+  DirectXTKAudio_Desktop_2015_Win8.vcxproj -> D:\Users\Lou\Desktop\Boids Lou Kai\Boids Lou Kai\Audio\..\Bin\Desktop_2015\Win32\Release\DirectXTKAudioWin8.lib

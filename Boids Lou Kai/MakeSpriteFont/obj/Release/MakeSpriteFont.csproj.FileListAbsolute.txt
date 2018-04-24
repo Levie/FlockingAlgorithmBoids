@@ -1,0 +1,6 @@
+D:\Users\Lou\Desktop\Boids Lou Kai\Boids Lou Kai\MakeSpriteFont\bin\Release\MakeSpriteFont.exe
+D:\Users\Lou\Desktop\Boids Lou Kai\Boids Lou Kai\MakeSpriteFont\bin\Release\MakeSpriteFont.pdb
+D:\Users\Lou\Desktop\Boids Lou Kai\Boids Lou Kai\MakeSpriteFont\obj\Release\MakeSpriteFont.csprojResolveAssemblyReference.cache
+D:\Users\Lou\Desktop\Boids Lou Kai\Boids Lou Kai\MakeSpriteFont\obj\Release\MakeSpriteFont.csproj.CoreCompileInputs.cache
+D:\Users\Lou\Desktop\Boids Lou Kai\Boids Lou Kai\MakeSpriteFont\obj\Release\MakeSpriteFont.exe
+D:\Users\Lou\Desktop\Boids Lou Kai\Boids Lou Kai\MakeSpriteFont\obj\Release\MakeSpriteFont.pdb
