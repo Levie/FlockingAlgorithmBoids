@@ -1,0 +1,59 @@
+﻿D:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (..\Bin\Desktop_2015\Win32\Debug\) contains files shared from another project (DirectXTKAudio_Desktop_2015_Win8.vcxproj, DirectXTK_Desktop_2015.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  VBSnail.cpp
+  d:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\users\lou\desktop\boids lou kai\boids lou kai\game\vbsnail.cpp(95): warning C4018: '<': signed/unsigned mismatch
+  VBGO.cpp
+d:\users\lou\desktop\boids lou kai\boids lou kai\game\vbgo.cpp(198): warning C4316: 'ConstantBuffer': object allocated on the heap may not be aligned 16
+  VBCube.cpp
+d:\users\lou\desktop\boids lou kai\boids lou kai\game\vbcube.cpp(126): warning C4018: '<': signed/unsigned mismatch
+  treebit.cpp
+  d:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Tree.cpp
+  TPSCamera.cpp
+  d:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  TextGO2D.cpp
+  Terrain.cpp
+  Player.cpp
+  d:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\users\lou\desktop\boids lou kai\boids lou kai\game\player.cpp(12): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\users\lou\desktop\boids lou kai\boids lou kai\game\player.cpp(83): warning C4305: 'argument': truncation from 'double' to 'float'
+  MarchCubes.cpp
+  d:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  light.cpp
+  d:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  ImageGO2D.cpp
+  d:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  GameObject2D.cpp
+  d:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  gameobject.cpp
+  d:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Game.cpp
+  d:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\users\lou\desktop\boids lou kai\boids lou kai\game\vbspiral.h(16): warning C4018: '<': signed/unsigned mismatch
+  fileVBGO.cpp
+  CMOGO.cpp
+  camera.cpp
+  Boids.cpp
+  d:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\users\lou\desktop\boids lou kai\boids lou kai\game\boids.cpp(18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\users\lou\desktop\boids lou kai\boids lou kai\game\boids.cpp(68): warning C4018: '<': signed/unsigned mismatch
+d:\users\lou\desktop\boids lou kai\boids lou kai\game\boids.cpp(92): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\users\lou\desktop\boids lou kai\boids lou kai\game\boids.cpp(100): warning C4018: '<': signed/unsigned mismatch
+d:\users\lou\desktop\boids lou kai\boids lou kai\game\boids.cpp(137): warning C4018: '<': signed/unsigned mismatch
+d:\users\lou\desktop\boids lou kai\boids lou kai\game\boids.cpp(151): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\users\lou\desktop\boids lou kai\boids lou kai\game\boids.cpp(169): warning C4018: '<': signed/unsigned mismatch
+d:\users\lou\desktop\boids lou kai\boids lou kai\game\boids.cpp(198): warning C4018: '<': signed/unsigned mismatch
+d:\users\lou\desktop\boids lou kai\boids lou kai\game\boids.cpp(208): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\users\lou\desktop\boids lou kai\boids lou kai\game\boids.cpp(238): warning C4018: '<': signed/unsigned mismatch
+d:\users\lou\desktop\boids lou kai\boids lou kai\game\boids.cpp(246): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\users\lou\desktop\boids lou kai\boids lou kai\game\boids.cpp(251): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+d:\users\lou\desktop\boids lou kai\boids lou kai\game\boids.cpp(252): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+d:\users\lou\desktop\boids lou kai\boids lou kai\game\boids.cpp(254): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+d:\users\lou\desktop\boids lou kai\boids lou kai\game\boids.cpp(278): warning C4018: '<': signed/unsigned mismatch
+d:\users\lou\desktop\boids lou kai\boids lou kai\game\boids.cpp(292): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  BoidsController.cpp
+d:\users\lou\desktop\boids lou kai\boids lou kai\game\boidscontroller.cpp(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\users\lou\desktop\boids lou kai\boids lou kai\game\boidscontroller.cpp(24): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+d:\users\lou\desktop\boids lou kai\boids lou kai\game\boids.cpp(272): warning C4715: 'Boids::PredatorSeek': not all control paths return a value
+  Game.vcxproj -> D:\Users\Lou\Desktop\Boids Lou Kai\Boids Lou Kai\Game\..\Bin\Desktop_2015\Win32\Debug\Game.lib
